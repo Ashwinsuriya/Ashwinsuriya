@@ -1,5 +1,3 @@
-<p align="center">
-  <img src="blackbox.svg" width="100%" alt="flight recorder of a bored brain">
 </p>
 
 seven years in marketing, then i switched sides and started writing the code myself. now i run <a href="https://fraktus.ai">fraktus.ai</a> and build <a href="https://thrulinehq.com">thruline</a>.
