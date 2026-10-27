@@ -1,6 +1,6 @@
 </p>
 
-seven years in marketing, then i switched sides and started writing the code myself. now i run <a href="https://fraktus.ai">fraktus.ai</a> and build <a href="https://thrulinehq.com">thruline</a>.
+Seven years in marketing, then i switched sides and started writing the code myself. now i run <a href="https://fraktus.ai">fraktus.ai</a> and build <a href="https://thrulinehq.com">thruline</a>.
 
 <br>
 
