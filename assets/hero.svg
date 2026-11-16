@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 400" role="img" aria-label="ThruLine. Your agent said done. Was it? ThruLine checks your agent's claims against what actually ran, before you merge.">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<style>
+.draw{stroke-dasharray:900;stroke-dashoffset:0;animation:d 1.6s ease-out both}
+@keyframes d{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.draw{animation:none}}
+</style>
+<rect x=".5" y=".5" width="879" height="399" rx="16" fill="#0A0A0A" stroke="#1F1F23"/>
+<g transform="translate(48,44) scale(.5625)"><rect width="64" height="64" rx="11" fill="#FF7A29"/><path d="M30 5h3v14.5h12V28H33v14.5a4 4 0 0 0 4 4h27V56H33.5A9.5 9.5 0 0 1 24 46.5V28H13v-8.5h11V11z" fill="#000"/></g>
+<text x="96" y="69" class="s" font-size="21" font-weight="600" fill="#EDEDEF" letter-spacing="-.2">ThruLine</text>
+<text x="832" y="68" class="m" font-size="12.5" fill="#82828C" text-anchor="end">local-first · receipts, not reports</text>
+<text x="48" y="158" class="s" font-size="54" font-weight="600" fill="#EDEDEF" letter-spacing="-1.6">Your agent said “done.”</text>
+<text x="48" y="222" class="s" font-size="54" font-weight="600" fill="#FF7A29" letter-spacing="-1.6">Was it?</text>
+<text x="48" y="268" class="s" font-size="18" fill="#A1A1AA">ThruLine checks your agent’s claims against what actually ran, before you merge.</text>
+<path class="draw" d="M0 334H880" stroke="#FF7A29" stroke-width="1.5" fill="none"/>
+<g>
+<rect x="48" y="310" width="372" height="48" rx="10" fill="#16161A" stroke="#1F1F23"/>
+<text x="64" y="339.500" class="m" font-size="11" fill="#82828C" letter-spacing=".8">AGENT SAID</text>
+<text x="150" y="340" class="s" font-size="15.5" fill="#EDEDEF">Checkout total fixed. Tests pass.</text>
+<rect x="660" y="316" width="172" height="36" rx="18" fill="#0A0A0A" stroke="#F2C94C"/>
+<circle cx="682" cy="334" r="3.5" fill="#F2C94C"/>
+<text x="696" y="338.500" class="m" font-size="12.5" fill="#F2C94C">Needs a re-check</text>
+</g>
+</svg>

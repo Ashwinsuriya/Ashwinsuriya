@@ -1,14 +1,66 @@
-</p>
+<a href="https://thrulinehq.com"><img src="assets/hero.svg" width="100%" alt="ThruLine. Your agent said done. Was it? ThruLine checks your agent's claims against what actually ran, before you merge."></a>
 
-Seven years in marketing, then i switched sides and started writing the code myself. now i run <a href="https://fraktus.ai">fraktus.ai</a> and build <a href="https://thrulinehq.com">thruline</a>.
+<p align="center">
+  <a href="https://thrulinehq.com"><b>thrulinehq.com</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/thrulinehq/thruline">source</a> &nbsp;·&nbsp;
+  <a href="https://github.com/thrulinehq/thruline/releases/latest">latest release</a> &nbsp;·&nbsp;
+  <a href="https://github.com/thrulinehq/thruline/blob/main/devlog/README.md">build log</a>
+</p>
 
 <br>
 
-## this profile is under surveillance
+## ai agents say done. thruline checks if the record agrees.
 
-most profiles tell you who someone is. this one gets fact checked.
+an agent says "done" or "all tests pass", and that report is usually all anyone reads.
 
-i build <a href="https://thrulinehq.com"><b>thruline</b></a>, a tool that checks whether an ai coding agent actually did what it says it did. so i did the only fair thing and pointed the same idea at myself. every claim below is held against the record. some of them survive.
+thruline reads the session logs your claude code and codex agents already write, takes each claim, and goes looking for the evidence. what it finds, it shows with a receipt. what it cannot find, it says so, in these exact words: *claimed, and no proof found in the record.*
+
+no vibes. no screenshots of green checkmarks. receipts.
+
+<br>
+
+<img src="assets/chain.svg" width="100%" alt="Follow the claim. Six questions asked of the sentence 'Tests pass': what the agent said, what it rests on, which version it ran on, what changed since, whether anything re-checked it, and what we actually know. Proof stops at the fourth, where checkout/api.py changed after the run. A re-check on the current version passes and the claim reads Proven.">
+
+<sub>an example project, not customer data. the tests did pass. they passed one version ago, before the file changed.</sub>
+
+<br>
+
+## what it will not do
+
+<img src="assets/principles.svg" width="100%" alt="Nothing leaves your machine: no telemetry, no update check, no account. Every line has a receipt: a file and line in your own session logs. Only a pass reads as a pass: 'ran, checked nothing' is not a pass.">
+
+<br>
+
+## one command, one receipt
+
+<img src="assets/why.svg" width="100%" alt="thruline why spkf_4e260dc6aba4 prints: claimed, and no proof found in the record. &quot;I've added retry logic to client.rs.&quot; the claim may be entirely true, the record simply does not show it.">
+
+<sub>the top of <code>thruline why</code> on a synthetic session. it never says the agent lied. it says what the record can show.</sub>
+
+<br>
+
+## from "done" to approved
+
+<img src="assets/stages.svg" width="100%" alt="One Change, six stages: Define, Prepare, Build, Verify, Review, Approve. Each stage answers one plain question.">
+
+everything is free except approving a version. approval names one exact version, and if the code moves, approving is refused.
+
+<p align="center">
+  <br>
+  <a href="https://thrulinehq.com"><b>check your agent's work →</b></a>
+  <br><br>
+  <sub>macos and linux · claude code and codex · <a href="https://github.com/thrulinehq/thruline">star the repo</a> if a green tick has ever lied to you</sub>
+</p>
+
+<br>
+
+---
+
+## who is behind this
+
+seven years in marketing, then i switched sides and started writing the code myself. now i run <a href="https://fraktus.ai">fraktus.ai</a> and build <a href="https://thrulinehq.com">thruline</a>.
+
+i did the only fair thing and pointed the same idea at myself. every claim below is held against the record. some of them survive.
 
 <table>
   <tr>
@@ -50,23 +102,13 @@ i build <a href="https://thrulinehq.com"><b>thruline</b></a>, a tool that checks
 
 <sub>readme verdict · three backed · one unproven · one contradicted · one open promise · no llm was consulted in the making of these verdicts</sub>
 
-<br>
-
-## so what is thruline
-
-ai agents say done. thruline checks if the record agrees.
-
-it is a local first flight recorder for your claude code and codex sessions. it reads what the agent claimed, goes looking for the evidence, and shows you what the record can actually prove. it also keeps a list of every promise the agent made and quietly forgot about.
-
-no vibes. no screenshots of green checkmarks. receipts.
-
-<p>
-  <a href="https://thrulinehq.com">see it at thrulinehq.com</a> &nbsp;·&nbsp; <a href="https://github.com/thrulinehq/thruline">follow the build log</a>
-</p>
+<sub>readme verdict · three backed · one unproven · one contradicted · one open promise · no llm was consulted in the making of these verdicts</sub>
 
 <br>
 
-## the boredom exchange rate
+<details>
+<summary><b>the boredom exchange rate</b> · other things i ship</summary>
+<br>
 
 <table>
   <tr>
@@ -82,6 +124,8 @@ no vibes. no screenshots of green checkmarks. receipts.
   <tr><td>every single weekday</td><td><a href="https://fraktus.ai">fraktus.ai</a> &nbsp;ai workflow systems for legal, health, insurance and construction teams</td></tr>
   <tr><td>right now</td><td>this readme</td></tr>
 </table>
+
+</details>
 
 <br>
 
@@ -128,8 +172,3 @@ star the <a href="https://github.com/thrulinehq/thruline">repo</a>, then come bu
 <br>
 
 <p align="center"><sub>currently bored · currently building · these two are the same thing</sub></p>
-
-<!---
-Ashwinsuriya/Ashwinsuriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

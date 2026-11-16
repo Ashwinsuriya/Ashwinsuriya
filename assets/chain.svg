@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 716" role="img" aria-label="Follow the claim. Six questions asked of the agent's sentence 'Tests pass': what it said, what it rests on, which version it ran on, what changed since, whether anything re-checked it, and what we actually know. Proof stops at step four, where checkout/api.py changed after the run. A re-check on the current version passes and the claim reads Proven.">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<style>
+.draw{stroke-dasharray:260;animation:d 1.8s ease-out both}
+@keyframes d{from{stroke-dashoffset:260}to{stroke-dashoffset:0}}
+.p{animation:p 2.4s ease-in-out infinite}
+@keyframes p{0%,100%{opacity:.25}50%{opacity:.9}}
+@media (prefers-reduced-motion:reduce){.draw,.p{animation:none}}
+</style>
+<rect x=".5" y=".5" width="879" height="715" rx="16" fill="#0A0A0A" stroke="#1F1F23"/>
+<text x="48" y="58" class="m" font-size="11.5" fill="#82828C" letter-spacing="1.2">THE CHAIN · EXAMPLE PROJECT</text>
+<text x="48" y="98" class="s" font-size="32" font-weight="600" fill="#EDEDEF" letter-spacing="-.8">Follow the claim.</text>
+<text x="832" y="98" class="s" font-size="14.500" fill="#82828C" text-anchor="end">One sentence. Six plain questions.</text>
+<path d="M48 124H832" stroke="#1F1F23"/>
+<path class="draw" d="M76 168V402" stroke="#FF7A29" stroke-width="2" fill="none"/>
+<path d="M76 402V558" stroke="#3A3A42" stroke-width="2" stroke-dasharray="3 6" fill="none"/>
+<path d="M112 441H832" stroke="#F2C94C" stroke-opacity=".55" stroke-dasharray="2 6"/>
+<rect x="682" y="430" width="150" height="22" rx="11" fill="#0A0A0A" stroke="#F2C94C" stroke-opacity=".7"/>
+<text x="757" y="445" class="m" font-size="10.5" fill="#F2C94C" text-anchor="middle" letter-spacing="1">PROOF STOPS HERE</text>
+<circle class="p" cx="76" cy="402" r="21" fill="none" stroke="#F2C94C" stroke-width="1"/>
+<circle cx="76" cy="168" r="14" fill="#FF7A29" stroke="#FF7A29" stroke-width="1.5"/>
+<text x="76" y="173" class="m" font-size="13" font-weight="600" fill="#000" text-anchor="middle">1</text>
+<text x="112" y="160" class="m" font-size="11.5" fill="#FF7A29" letter-spacing="1">SAID</text>
+<text x="112" y="183" class="s" font-size="16.5" fill="#EDEDEF">What did the agent claim?</text>
+<text x="548" y="163" class="m" font-size="14" fill="#EDEDEF">“Tests pass.”</text>
+<text x="548" y="183" class="m" font-size="12" fill="#82828C">Claude Code · step 52</text>
+<circle cx="76" cy="246" r="14" fill="#FF7A29" stroke="#FF7A29" stroke-width="1.5"/>
+<text x="76" y="251" class="m" font-size="13" font-weight="600" fill="#000" text-anchor="middle">2</text>
+<text x="112" y="238" class="m" font-size="11.5" fill="#FF7A29" letter-spacing="1">RESTS ON</text>
+<text x="112" y="261" class="s" font-size="16.5" fill="#EDEDEF">What is that claim based on?</text>
+<text x="548" y="241" class="m" font-size="14" fill="#EDEDEF">4 passed, 0 failed</text>
+<text x="548" y="261" class="m" font-size="12" fill="#82828C">step 46 · cited by the agent</text>
+<circle cx="76" cy="324" r="14" fill="#FF7A29" stroke="#FF7A29" stroke-width="1.5"/>
+<text x="76" y="329" class="m" font-size="13" font-weight="600" fill="#000" text-anchor="middle">3</text>
+<text x="112" y="316" class="m" font-size="11.5" fill="#FF7A29" letter-spacing="1">RAN ON</text>
+<text x="112" y="339" class="s" font-size="16.5" fill="#EDEDEF">Which version did that actually run on?</text>
+<text x="548" y="319" class="m" font-size="14" fill="#EDEDEF">version 9f2ad3e</text>
+<text x="548" y="339" class="m" font-size="12" fill="#82828C">1 version older</text>
+<circle cx="76" cy="402" r="14" fill="#0A0A0A" stroke="#F2C94C" stroke-width="1.5"/>
+<text x="76" y="407" class="m" font-size="13" font-weight="600" fill="#F2C94C" text-anchor="middle">4</text>
+<text x="112" y="394" class="m" font-size="11.5" fill="#F2C94C" letter-spacing="1">SINCE</text>
+<text x="112" y="417" class="s" font-size="16.5" fill="#EDEDEF">Did anything it depends on change after it?</text>
+<text x="548" y="397" class="m" font-size="14" fill="#F2C94C">checkout/api.py changed</text>
+<text x="548" y="417" class="m" font-size="12" fill="#82828C">step 56 · after the run</text>
+<circle cx="76" cy="480" r="14" fill="#0A0A0A" stroke="#3A3A42" stroke-width="1.5"/>
+<text x="76" y="485" class="m" font-size="13" font-weight="600" fill="#82828C" text-anchor="middle">5</text>
+<text x="112" y="472" class="m" font-size="11.5" fill="#82828C" letter-spacing="1">RE-CHECKED</text>
+<text x="112" y="495" class="s" font-size="16.5" fill="#EDEDEF">Has anything checked it since?</text>
+<text x="548" y="475" class="m" font-size="14" fill="#A1A1AA">nothing on e71c5b0</text>
+<text x="548" y="495" class="m" font-size="12" fill="#82828C">with checkout/api.py in scope</text>
+<circle cx="76" cy="558" r="14" fill="#0A0A0A" stroke="#3A3A42" stroke-width="1.5"/>
+<text x="76" y="563" class="m" font-size="13" font-weight="600" fill="#82828C" text-anchor="middle">6</text>
+<text x="112" y="550" class="m" font-size="11.5" fill="#82828C" letter-spacing="1">SO</text>
+<text x="112" y="573" class="s" font-size="16.5" fill="#EDEDEF">So what do we actually know?</text>
+<text x="548" y="553" class="m" font-size="14" fill="#EDEDEF">Not checked · version e71c5b0</text>
+<text x="548" y="573" class="m" font-size="12" fill="#82828C">the claim may be entirely true.</text>
+<rect x="48" y="612" width="784" height="64" rx="12" fill="#0E1512" stroke="#3DD68C" stroke-opacity=".45"/>
+<text x="68" y="639" class="m" font-size="11.5" fill="#3DD68C" letter-spacing="1">CHECK IT AGAIN</text>
+<text x="68" y="660" class="m" font-size="13" fill="#A1A1AA">step 62 · exit 0 · 3 passed, 0 failed · version e71c5b0</text>
+<rect x="716" y="628" width="96" height="32" rx="16" fill="#3DD68C"/>
+<text x="764" y="649" class="s" font-size="14.500" font-weight="600" fill="#04140C" text-anchor="middle">Proven</text>
+</svg>

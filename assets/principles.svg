@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 188" role="img" aria-label="Three principles. Nothing leaves your machine: no telemetry, no update check, no account. Every line has a receipt: a file and line in your own session logs. Only a pass reads as a pass: ran, checked nothing is not a pass.">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="0.5" y=".5" width="281" height="187" rx="14" fill="#0A0A0A" stroke="#1F1F23"/>
+<path d="M24 34h22" stroke="#FF7A29" stroke-width="2"/>
+<text x="56" y="38" class="m" font-size="11" fill="#82828C" letter-spacing="1.2">LOCAL</text>
+<text x="24" y="82" class="s" font-size="18" font-weight="600" fill="#EDEDEF" letter-spacing="-.2">Nothing leaves your machine</text>
+<text class="s" font-size="14" fill="#A1A1AA"><tspan x="24" y="114">No telemetry, no update check,</tspan><tspan x="24" y="136">no account. The UI listens on</tspan><tspan x="24" y="158">loopback only.</tspan></text>
+<rect x="299.5" y=".5" width="281" height="187" rx="14" fill="#0A0A0A" stroke="#1F1F23"/>
+<path d="M323 34h22" stroke="#FF7A29" stroke-width="2"/>
+<text x="355" y="38" class="m" font-size="11" fill="#82828C" letter-spacing="1.2">RECEIPTS</text>
+<text x="323" y="82" class="s" font-size="18" font-weight="600" fill="#EDEDEF" letter-spacing="-.2">Every line has a receipt</text>
+<text class="s" font-size="14" fill="#A1A1AA"><tspan x="323" y="114">Each statement points to a file</tspan><tspan x="323" y="136">and line in your own session</tspan><tspan x="323" y="158">logs, hash-chained on disk.</tspan></text>
+<rect x="598.5" y=".5" width="281" height="187" rx="14" fill="#0A0A0A" stroke="#1F1F23"/>
+<path d="M622 34h22" stroke="#FF7A29" stroke-width="2"/>
+<text x="654" y="38" class="m" font-size="11" fill="#82828C" letter-spacing="1.2">STATES</text>
+<text x="622" y="82" class="s" font-size="18" font-weight="600" fill="#EDEDEF" letter-spacing="-.2">Only a pass reads as a pass</text>
+<text class="s" font-size="14" fill="#A1A1AA"><tspan x="622" y="114">“Ran, checked nothing” still</tspan><tspan x="622" y="136">exits 0. ThruLine says so,</tspan><tspan x="622" y="158">and never calls it a pass.</tspan></text>
+</svg>

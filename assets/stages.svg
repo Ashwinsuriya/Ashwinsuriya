@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" role="img" aria-label="One Change, six stages: Define, what counts as done. Prepare, what exactly will be examined. Build, what changed. Verify, what happened when we checked it. Review, what did review find and was it addressed. Approve, what exactly am I accepting.">
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x=".5" y=".5" width="879" height="239" rx="16" fill="#0A0A0A" stroke="#1F1F23"/>
+<text x="48" y="52" class="m" font-size="11.5" fill="#82828C" letter-spacing="1.2">ONE CHANGE · SIX STAGES</text>
+<text x="832" y="52" class="s" font-size="14.500" fill="#82828C" text-anchor="end">Each stage answers one plain question.</text>
+<path d="M100 96H780" stroke="#FF7A29" stroke-width="1.5"/>
+<circle cx="100" cy="96" r="5" fill="#FF7A29"/>
+<text x="100" y="128" class="m" font-size="11.5" fill="#FF7A29" text-anchor="middle">01</text>
+<text x="100" y="152" class="s" font-size="17" font-weight="600" fill="#EDEDEF" text-anchor="middle">Define</text>
+<text class="s" font-size="12" fill="#82828C" text-anchor="middle"><tspan x="100" y="176">What counts</tspan><tspan x="100" y="193">as done?</tspan><tspan x="100" y="210"></tspan></text>
+<circle cx="236" cy="96" r="5" fill="#FF7A29"/>
+<text x="236" y="128" class="m" font-size="11.5" fill="#FF7A29" text-anchor="middle">02</text>
+<text x="236" y="152" class="s" font-size="17" font-weight="600" fill="#EDEDEF" text-anchor="middle">Prepare</text>
+<text class="s" font-size="12" fill="#82828C" text-anchor="middle"><tspan x="236" y="176">What exactly will</tspan><tspan x="236" y="193">be examined?</tspan><tspan x="236" y="210"></tspan></text>
+<circle cx="372" cy="96" r="5" fill="#FF7A29"/>
+<text x="372" y="128" class="m" font-size="11.5" fill="#FF7A29" text-anchor="middle">03</text>
+<text x="372" y="152" class="s" font-size="17" font-weight="600" fill="#EDEDEF" text-anchor="middle">Build</text>
+<text class="s" font-size="12" fill="#82828C" text-anchor="middle"><tspan x="372" y="176">What changed?</tspan><tspan x="372" y="193"></tspan><tspan x="372" y="210"></tspan></text>
+<circle cx="508" cy="96" r="5" fill="#FF7A29"/>
+<text x="508" y="128" class="m" font-size="11.5" fill="#FF7A29" text-anchor="middle">04</text>
+<text x="508" y="152" class="s" font-size="17" font-weight="600" fill="#EDEDEF" text-anchor="middle">Verify</text>
+<text class="s" font-size="12" fill="#82828C" text-anchor="middle"><tspan x="508" y="176">What happened when</tspan><tspan x="508" y="193">we checked it?</tspan><tspan x="508" y="210"></tspan></text>
+<circle cx="644" cy="96" r="5" fill="#FF7A29"/>
+<text x="644" y="128" class="m" font-size="11.5" fill="#FF7A29" text-anchor="middle">05</text>
+<text x="644" y="152" class="s" font-size="17" font-weight="600" fill="#EDEDEF" text-anchor="middle">Review</text>
+<text class="s" font-size="12" fill="#82828C" text-anchor="middle"><tspan x="644" y="176">What did review find,</tspan><tspan x="644" y="193">and was it addressed?</tspan><tspan x="644" y="210"></tspan></text>
+<circle cx="780" cy="96" r="5" fill="#FF7A29"/>
+<text x="780" y="128" class="m" font-size="11.5" fill="#FF7A29" text-anchor="middle">06</text>
+<text x="780" y="152" class="s" font-size="17" font-weight="600" fill="#EDEDEF" text-anchor="middle">Approve</text>
+<text class="s" font-size="12" fill="#82828C" text-anchor="middle"><tspan x="780" y="176">What exactly am</tspan><tspan x="780" y="193">I accepting?</tspan><tspan x="780" y="210"></tspan></text>
+</svg>
